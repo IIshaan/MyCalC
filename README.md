@@ -1,10 +1,10 @@
 # MyCalC
 This is a Calculator application which consists of atleast 3 concepts as a criteria by Google for the successful submission of the app. 
 Some of the concepts I used are -
-1) Fragment OnCreate()
-2) String Templates
-3) Named Parameters
-4) Inheritance
+1) Callback method - To call onCreate on the superclass.
+2) String Templates - To take inputs (digits) and covert it to string.
+3) Named Parameters - To specify names of arguements while calling the function to return the answer.
+4) Extension Function - Used for ToString().
 
 <b>Note:</b> When you'll use the assignments (such as +,-,/,*) in the calculator, they won't be visible so move ahead without worrying why is it not working.
 
