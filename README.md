@@ -12,3 +12,5 @@ Some of the concepts I used are -
 
 
 Supported versions of Android - 4.4 and Above.
+
+Things I've learned in #30DaysOfKotlin - https://github.com/IIshaan/30DaysOfKotlin
